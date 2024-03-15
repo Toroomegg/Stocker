@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 import fbprophet
+from fbprophet import Prophet
 
 # matplotlib pyplot for plotting
 import matplotlib.pyplot as plt
